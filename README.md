@@ -56,7 +56,7 @@ BeYourBestSelf
   - pyinstaller==6.12.0（用于打包发布的）
 - 源码环境配置instruction：（二选一即可）
 ```plain
-pip install pygame easygui pygame
+pip install pygame easygui
 ```
 ```plain
 pip install -r requirements.txt（请在项目根目录运行cmd）

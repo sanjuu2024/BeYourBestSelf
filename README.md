@@ -54,7 +54,7 @@ BeYourBestSelf
   - easygui==0.98.3
   - pygame==2.6.1
   - pyinstaller==6.12.0（用于打包发布的）
-- 源码环境配置intruction：（二选一即可）
+- 源码环境配置instruction：（二选一即可）
 ```plain
 pip install pygame easygui pygame
 ```
